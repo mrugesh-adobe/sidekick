@@ -16,6 +16,11 @@
   color: var(--background-color);
 }
 
+.hero.jumbotron h1 {
+  color: green;
+  font-size: 60px;
+}
+
 .hero picture {
   position: absolute;
   z-index: -1;
